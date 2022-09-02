@@ -1,3 +1,3 @@
 gridpane-wordpress-template
 
-some test
+some new test
