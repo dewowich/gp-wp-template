@@ -1,6 +1,1 @@
 gridpane-wordpress-template
-
-some new test
-one more time
-
-hahahahahahah
