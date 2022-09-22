@@ -1,3 +1,2 @@
 gridpane-wordpress-template
 
-hello
